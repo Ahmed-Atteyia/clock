@@ -20,7 +20,6 @@ void main()
  int x1, y1, x2, y2, x3, y3, x4, y4, x5, y5, x6, y6;
  setfillstyle(1,15);
  circle(x,y,220);
- //circle(x,y,190);
  floodfill(1,1,15);
 
  circle(x,y,10);
